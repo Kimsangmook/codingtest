@@ -1,6 +1,6 @@
-import reverseArrTowPointer from "./towpointer";
+import reverseArrTwoPointer from "./twopointer";
 import reverseArrFunc from "./reavers";
 
 const case1 = ["h","e","l","l","o"];
-console.log(reverseArrTowPointer(case1));
+console.log(reverseArrTwoPointer(case1));
 console.log(reverseArrFunc(case1));

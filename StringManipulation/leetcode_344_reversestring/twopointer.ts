@@ -1,4 +1,4 @@
-const reverseArrTowPointer = (str: string[]): string[] => {
+const reverseArrTwoPointer = (str: string[]): string[] => {
     const charArray = str;
 
     let left : number = 0;
@@ -13,4 +13,4 @@ const reverseArrTowPointer = (str: string[]): string[] => {
 };
 
 
-export default reverseArrTowPointer;
+export default reverseArrTwoPointer;
